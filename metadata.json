@@ -1,0 +1,6 @@
+{
+  "name": "Speedy Report Bot",
+  "description": "An AI-powered student report card companion that generates structured 3-page student evaluations and PDF files based on academic performance, character, and extracurricular skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
